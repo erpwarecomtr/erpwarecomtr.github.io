@@ -44,6 +44,18 @@
     }
   }
 
+  &__content2 {
+    order: 2;
+
+    &.half--left {
+      @include min(md) {
+        order: 2;
+        flex-basis: 0.75;
+        max-width: 40vw;
+      }
+    }
+  }
+
   &__image {
     min-height: 50vh;
     order: 1;
