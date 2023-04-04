@@ -1,11 +1,12 @@
 # Your Name or Company
 title: ERPware
-
+title2: Neden fil
 # Description of your website. This is used for social sharing.
 description:  ERP.
 
 # A brief blurb about yourself
 content: ERPware, bir işletmenin tüm departmanlarında ve iş süreçlerinde mevcut yazılımlarla entegre çalışan çözümler sunar. Bu çözümler, finansal yönetim, insan kaynakları yönetimi, üretim, envanter yönetimi, satış ve pazarlama gibi işletme süreçlerinin tamamını yönetmeye yardımcı olur. ERPware, işletmelerin daha verimli, organize ve veriye dayalı kararlar almasına olanak tanır.
+content2: Aile bağlarına önem veren fil, birlikte çalışmanın önemini de bilir. https://tr.wikipedia.org/wiki/Fillerde_bili%C5%9Fsellik
 # Add your social links
 # social:
 #  - platform: github
@@ -22,7 +23,7 @@ content: ERPware, bir işletmenin tüm departmanlarında ve iş süreçlerinde m
 # baseurl: "/uni" 
 markdown: kramdown
 sharing_image: share.jpg
-google_analytics: "UA-58263416-1" # google analytics tracking
+google_analytics: "UA-" # google analytics tracking
 
 #### LAYOUT OPTIONS #####
 
