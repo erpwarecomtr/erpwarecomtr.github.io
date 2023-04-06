@@ -792,8 +792,8 @@ PAGE STYLES
   margin: 2rem auto 1em;
   text-align: center; }
 
-  .pageTitle2 {
-    margin: 2rem auto 0em;
+.pageTitle2 {
+    margin: 2rem auto 2em;
     text-align: center; }
 
 .content {
